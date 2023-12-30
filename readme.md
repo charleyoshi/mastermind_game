@@ -1,16 +1,16 @@
 # Mastermind - OOD Practice in Ruby
 
-Practice from The Odin Project
-Current Version: Terminal game
+Practice from The Odin Project <br/>
+Current Version: Terminal game <br/>
 
 ![demo](https://github.com/charleyoshi/mastermind_game/blob/main/demo.png)
 
 ## Description
 
-This is a OOD practice. 
-Implemented several classes and helper modules. 
-Inheritance (where human player inherits default player mode) was used.
-Encapsulation (where code maker's secret key has to be private) was used. 
+This is a OOD practice. <br/>
+Implemented several classes and helper modules. <br/>
+Inheritance (where human player inherits default player mode) was used. <br/>
+Encapsulation (where code maker's secret key has to be private) was used. <br/>
 
 
 ## Executing program
